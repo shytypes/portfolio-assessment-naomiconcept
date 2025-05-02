@@ -123,3 +123,12 @@ h1 {
   padding-top: 1rem;
   padding-left: 2rem;
 }
+ul {
+  color: white;
+  margin-left: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+li {
+  padding-bottom: 2px;
+}
